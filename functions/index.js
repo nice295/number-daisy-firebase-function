@@ -339,4 +339,4 @@ app.fallback((conv) => {
   conv.ask(`I didn't hear a number. What's your guess?`);
 });
 
-exports.numberGenie = functions.https.onRequest(app);
+exports.numberDaisy = functions.https.onRequest(app);

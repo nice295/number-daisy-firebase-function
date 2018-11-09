@@ -25,6 +25,7 @@ i18n.configure({
   "directory": path.join(__dirname, "/locales"),
   "objectNotation": true,
   "fallbacks": {
+    "ko-KR": "ko",
     "fr-FR": "fr",
     "fr-CA": "fr",
   },

@@ -227,7 +227,7 @@
       "How about one more round?"
     ],
     "fallback": [
-      "Are you done playing Number Genie?"
+      "Are you done playing Number Daisy?"
     ],
     "fallback2": [
       "Since I'm still having trouble, I'll stop here. Let’s play again soon."
@@ -241,8 +241,8 @@
       "%s is a great first guess. It has %s letters, but the number I'm thinking of is lower. Guess again!"
     ],
     "deeplink3": [
-      "Wow! You're a true Number Genie! %s has %s letters and the number I was thinking of was %s! Well done!",
-      "Amazing! You're a real Number Genie! %s has %s letters and the number I was thinking of was %s. Great job!"
+      "Wow! You're a true Number Daisy! %s has %s letters and the number I was thinking of was %s! Well done!",
+      "Amazing! You're a real Number Daisy! %s has %s letters and the number I was thinking of was %s. Great job!"
     ],
     "repeat": [
       "Sure. %s.",
